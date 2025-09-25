@@ -1,0 +1,162 @@
+[
+  {
+    "id": "drata-overview",
+    "title": "What is Drata?",
+    "url": "https://drata.com/about",
+    "category": "product",
+    "summary": "Drata is a security and compliance automation platform that helps organizations achieve and maintain compliance with frameworks like SOC 2, ISO 27001, PCI DSS, and more.",
+    "content": "Drata is the world's leading security and compliance automation platform. We help organizations of all sizes achieve and maintain compliance with frameworks like SOC 2, ISO 27001, PCI DSS, HIPAA, and more. Our platform continuously monitors your security posture, automatically collects evidence, and streamlines the audit process, reducing compliance time from months to weeks."
+  },
+  {
+    "id": "soc2-compliance",
+    "title": "SOC 2 Compliance with Drata",
+    "url": "https://drata.com/soc2",
+    "category": "compliance",
+    "summary": "Drata automates SOC 2 compliance by continuously monitoring controls, collecting evidence, and preparing audit-ready documentation.",
+    "content": "Drata makes SOC 2 compliance effortless by automatically monitoring your security controls 24/7. Our platform integrates with 100+ tools in your tech stack to continuously collect evidence, track control effectiveness, and generate audit-ready documentation. We support all five Trust Service Criteria: Security, Availability, Processing Integrity, Confidentiality, and Privacy."
+  },
+  {
+    "id": "evidence-collection",
+    "title": "Automated Evidence Collection",
+    "url": "https://drata.com/features/evidence-collection",
+    "category": "product",
+    "summary": "Drata automatically collects and organizes compliance evidence from your existing tools and systems.",
+    "content": "Drata's evidence collection engine automatically gathers proof of your security controls from across your technology stack. We connect to cloud providers, identity management systems, monitoring tools, and more to collect screenshots, logs, configurations, and other evidence types. This eliminates manual evidence collection and ensures nothing falls through the cracks during audits."
+  },
+  {
+    "id": "integrations",
+    "title": "Drata Integrations",
+    "url": "https://drata.com/integrations",
+    "category": "integrations",
+    "summary": "Drata integrates with 100+ popular business tools including AWS, Google Cloud, Okta, GitHub, and more.",
+    "content": "Drata seamlessly integrates with over 100 popular business tools and cloud platforms. Key integrations include AWS, Google Cloud Platform, Microsoft Azure, Okta, GitHub, GitLab, Slack, Jira, and many more. Our integrations automatically collect evidence, monitor security configurations, and track user access across your entire tech stack without requiring manual setup or maintenance."
+  },
+  {
+    "id": "pricing-plans",
+    "title": "Drata Pricing",
+    "url": "https://drata.com/pricing",
+    "category": "pricing",
+    "summary": "Drata offers flexible pricing plans for startups and enterprises, with custom solutions available.",
+    "content": "Drata offers transparent, flexible pricing designed to scale with your business. Our Starter plan is perfect for early-stage companies beginning their compliance journey, while our Growth and Scale plans provide advanced features for larger organizations. We also offer custom Enterprise solutions with dedicated support. All plans include unlimited users and come with a free trial period."
+  },
+  {
+    "id": "startup-plan",
+    "title": "Drata for Startups",
+    "url": "https://drata.com/startups",
+    "category": "pricing",
+    "summary": "Drata offers special pricing and support for early-stage startups pursuing their first compliance certification.",
+    "content": "Drata's Startup Program provides special pricing and dedicated support for early-stage companies. Qualifying startups receive significant discounts on our platform, access to compliance experts, and resources to help navigate their first audit. The program is designed for companies with limited compliance resources who need to achieve SOC 2 or other certifications to unlock enterprise customers."
+  },
+  {
+    "id": "security-frameworks",
+    "title": "Supported Security Frameworks",
+    "url": "https://drata.com/frameworks",
+    "category": "compliance",
+    "summary": "Drata supports 15+ compliance frameworks including SOC 2, ISO 27001, PCI DSS, HIPAA, GDPR, and more.",
+    "content": "Drata supports over 15 major compliance frameworks and standards. These include SOC 2 Type I & II, ISO 27001, PCI DSS, HIPAA, GDPR, CCPA, FedRAMP, NIST Cybersecurity Framework, CIS Controls, and more. Our platform maps controls across frameworks to eliminate duplicate work when pursuing multiple certifications, and we regularly add support for new standards based on customer needs."
+  },
+  {
+    "id": "continuous-monitoring",
+    "title": "Continuous Security Monitoring",
+    "url": "https://drata.com/features/monitoring",
+    "category": "product",
+    "summary": "Drata provides 24/7 continuous monitoring of your security controls and infrastructure.",
+    "content": "Drata's continuous monitoring capabilities provide real-time visibility into your security posture. Our platform monitors your infrastructure, applications, and business processes 24/7, automatically detecting control failures, configuration drift, and potential compliance gaps. When issues are identified, we send immediate alerts and provide remediation guidance to help you maintain compliance between audits."
+  },
+  {
+    "id": "audit-preparation",
+    "title": "Audit Preparation and Management",
+    "url": "https://drata.com/features/audit-management",
+    "category": "product",
+    "summary": "Drata streamlines audit preparation with organized evidence, audit-ready reports, and auditor collaboration tools.",
+    "content": "Drata transforms the audit experience by organizing all your evidence in one place and generating audit-ready documentation. Our platform creates detailed control matrices, evidence packages, and compliance reports that auditors love. We also provide collaboration tools that allow auditors to request and review evidence directly within the platform, reducing back-and-forth communication and accelerating the audit timeline."
+  },
+  {
+    "id": "personnel-security",
+    "title": "Personnel Security Controls",
+    "url": "https://drata.com/features/personnel",
+    "category": "security",
+    "summary": "Drata automates personnel security requirements including background checks, security training, and access reviews.",
+    "content": "Drata automates critical personnel security controls required for compliance. Our platform tracks employee background checks, security awareness training completion, access reviews, and termination procedures. We integrate with HR systems and identity providers to automatically monitor personnel changes and ensure security requirements are met throughout the employee lifecycle."
+  },
+  {
+    "id": "vendor-management",
+    "title": "Vendor Risk Management",
+    "url": "https://drata.com/features/vendor-management",
+    "category": "security",
+    "summary": "Drata helps manage third-party vendor risks with automated assessments and continuous monitoring.",
+    "content": "Drata's vendor risk management features help you assess and monitor third-party risks. Our platform automates vendor security assessments, tracks vendor certifications and insurance, and monitors for security incidents. We maintain a database of pre-assessed vendors and provide standardized questionnaires to streamline the vendor onboarding process while ensuring due diligence requirements are met."
+  },
+  {
+    "id": "data-encryption",
+    "title": "Data Encryption and Protection",
+    "url": "https://drata.com/features/data-protection",
+    "category": "security",
+    "summary": "Drata monitors data encryption, backup procedures, and data handling practices across your environment.",
+    "content": "Drata ensures your data protection controls meet compliance requirements by monitoring encryption in transit and at rest, backup procedures, data retention policies, and secure data handling practices. Our platform integrates with cloud providers and databases to automatically verify encryption configurations and backup schedules, providing continuous assurance that your data is properly protected."
+  },
+  {
+    "id": "incident-response",
+    "title": "Incident Response Management",
+    "url": "https://drata.com/features/incident-response",
+    "category": "security",
+    "summary": "Drata helps document and track security incidents to meet compliance reporting requirements.",
+    "content": "Drata's incident response features help you document, track, and report security incidents in accordance with compliance requirements. Our platform integrates with security tools to automatically detect potential incidents, provides templates for incident documentation, and maintains an audit trail of response activities. This ensures you can demonstrate effective incident response capabilities during audits."
+  },
+  {
+    "id": "access-management",
+    "title": "Access Control and Identity Management",
+    "url": "https://drata.com/features/access-control",
+    "category": "security",
+    "summary": "Drata monitors user access, privileged accounts, and access reviews across your systems and applications.",
+    "content": "Drata provides comprehensive access control monitoring by integrating with identity providers, cloud platforms, and business applications. Our platform tracks user provisioning and deprovisioning, monitors privileged access, conducts automated access reviews, and ensures principle of least privilege is maintained. We provide detailed reporting on access patterns and help identify potential access violations."
+  },
+  {
+    "id": "vulnerability-management",
+    "title": "Vulnerability and Patch Management",
+    "url": "https://drata.com/features/vulnerability-management",
+    "category": "security",
+    "summary": "Drata tracks vulnerability scans, patch management, and remediation activities across your infrastructure.",
+    "content": "Drata's vulnerability management capabilities integrate with scanning tools to track vulnerability assessments, patch management activities, and remediation efforts. Our platform monitors patch levels across your infrastructure, tracks vulnerability scan results, and provides reporting on remediation timelines. This helps demonstrate that you're actively managing security vulnerabilities as required by compliance frameworks."
+  },
+  {
+    "id": "business-continuity",
+    "title": "Business Continuity and Disaster Recovery",
+    "url": "https://drata.com/features/business-continuity",
+    "category": "security",
+    "summary": "Drata helps document and test business continuity plans and disaster recovery procedures.",
+    "content": "Drata assists with business continuity and disaster recovery requirements by helping you document recovery procedures, track testing activities, and maintain evidence of backup and recovery capabilities. Our platform can integrate with backup systems to verify backup schedules and success rates, and provides templates for documenting recovery time objectives and procedures required for compliance."
+  },
+  {
+    "id": "risk-assessment",
+    "title": "Risk Assessment and Management",
+    "url": "https://drata.com/features/risk-management",
+    "category": "security",
+    "summary": "Drata provides tools for conducting and documenting risk assessments required for compliance frameworks.",
+    "content": "Drata's risk management features help you conduct comprehensive risk assessments as required by compliance frameworks. Our platform provides risk assessment templates, helps identify and document risks, tracks risk mitigation activities, and maintains a risk register. We also provide guidance on risk rating methodologies and help ensure your risk management program meets auditor expectations."
+  },
+  {
+    "id": "policy-management",
+    "title": "Security Policy Management",
+    "url": "https://drata.com/features/policy-management",
+    "category": "security",
+    "summary": "Drata helps create, maintain, and track acknowledgment of security policies required for compliance.",
+    "content": "Drata streamlines security policy management by providing policy templates aligned with compliance requirements, tracking policy reviews and updates, and managing employee acknowledgments. Our platform ensures policies are regularly reviewed, properly versioned, and communicated to relevant personnel. We also help map policies to specific compliance controls to demonstrate coverage during audits."
+  },
+  {
+    "id": "training-awareness",
+    "title": "Security Training and Awareness",
+    "url": "https://drata.com/features/training",
+    "category": "security",
+    "summary": "Drata tracks security awareness training completion and maintains records for compliance purposes.",
+    "content": "Drata helps manage security training and awareness programs by tracking training completion, maintaining training records, and providing reporting on training effectiveness. Our platform integrates with learning management systems and can automatically assign training based on employee roles. We help ensure all personnel receive appropriate security training as required by compliance frameworks."
+  },
+  {
+    "id": "api-documentation",
+    "title": "Drata API and Integrations",
+    "url": "https://drata.com/developers",
+    "category": "integrations",
+    "summary": "Drata provides APIs and webhooks for custom integrations and automated workflows.",
+    "content": "Drata offers comprehensive APIs and webhooks that allow you to build custom integrations and automate compliance workflows. Our REST API provides access to evidence collection, control status, and audit data. Webhooks enable real-time notifications for control failures or compliance events. This allows you to integrate Drata data into your existing dashboards, ticketing systems, or custom applications."
+  }
+]

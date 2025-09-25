@@ -1,0 +1,38 @@
+{
+  "AiAssistantModule": {
+    "enabled": true,
+    "variant": "drawer",
+    "title": "Ask about Drata",
+    "intro": "Get quick, trusted answers about Drata's compliance automation platform with citations.",
+    "placeholder": "e.g., How does Drata help with SOC 2?",
+    "suggestedPrompts": [
+      "What frameworks does Drata support?",
+      "How do integrations work?",
+      "Is there a startup plan?",
+      "How does Drata automate evidence collection?",
+      "What security certifications does Drata have?"
+    ],
+    "primaryCta": {
+      "label": "Book a demo",
+      "href": "/demo"
+    },
+    "secondaryCtas": [
+      {
+        "label": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "label": "Integrations",
+        "href": "/integrations"
+      }
+    ],
+    "theme": {
+      "tone": "brand",
+      "accentHex": "#1C64F2"
+    },
+    "position": "heroBottom",
+    "rateLimitPerMinute": 12,
+    "allowedCountries": [],
+    "disclaimer": "Answers may be AI-generated. Always verify with Sales for the most current information."
+  }
+}
